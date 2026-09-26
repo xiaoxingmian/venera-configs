@@ -14,5 +14,5 @@ https://gh-proxy.com/raw.githubusercontent.com/xiaoxingmian/venera-configs/refs/
    - `_venera_.js` 用于 IDE 中的代码补全
 
 ## 此仓库漫画源
-腾讯动漫［https://ac.qq.com］
+腾讯动漫［ https://ac.qq.com ］
 （ps：搜索功能有一点点问题，付费章节看不了，需要前往腾讯动漫APP看）
