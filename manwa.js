@@ -2,7 +2,7 @@
 class Manwa extends ComicSource {
   name = "漫蛙";
   key = "manwa";
-  version = "1.2.1";
+  version = "1.0.0";
   minAppVersion = "1.4.0";
 
   url =
