@@ -1,8 +1,8 @@
 [
     {
         "name": "腾讯动漫",
-        "fileName": "TencentComics.js",
-        "key": "TencentComics",
+        "fileName": "tencentcomics.js",
+        "key": "tencentcomics",
         "version": "1.0.0"
     },
 
