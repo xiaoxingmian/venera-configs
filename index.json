@@ -4,6 +4,12 @@
         "fileName": "tencentcomics.js",
         "key": "tencentcomics",
         "version": "1.0.0"
+    },
+    {
+        "name": "漫蛙",
+        "fileName": "manwa.js",
+        "key": "manwa",
+        "version": "1.0.0"
     }
 
 ]
