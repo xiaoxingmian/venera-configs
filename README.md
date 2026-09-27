@@ -15,8 +15,5 @@ https://gh-proxy.com/raw.githubusercontent.com/xiaoxingmian/venera-configs/refs/
 
 ## 此仓库漫画源
 1.腾讯动漫［ https://ac.qq.com ］
-（ps：搜索功能有一点点问题，付费章节看不了，需要前往腾讯动漫APP看）
-
 2.漫蛙［ https://manwa.me ］
-
-（ps：有点小问题，但能用）
+3.花咔漫畫［https://app.huakacomic.com］
