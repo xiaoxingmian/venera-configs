@@ -10,6 +10,12 @@
         "fileName": "manwa.js",
         "key": "manwa",
         "version": "1.0.0"
+    },
+    {
+        "name": "花咔漫畫",
+        "fileName": "huakacomic.js",
+        "key": "huakacomic",
+        "version": "1.0.0"
     }
 
 ]
