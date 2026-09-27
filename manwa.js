@@ -1165,7 +1165,7 @@ class Manwa extends ComicSource {
   // =========================
 
   category = {
-    title: "漫蛙分类",
+    title: "漫蛙",
 
     parts: [
       {
