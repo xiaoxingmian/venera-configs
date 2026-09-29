@@ -14,9 +14,13 @@ https://gh-proxy.com/raw.githubusercontent.com/xiaoxingmian/venera-configs/refs/
    - `_venera_.js` 用于 IDE 中的代码补全
 
 ## 此仓库漫画源
-|名称|网站|
-|---|---|
-|腾讯动漫| https://ac.qq.com |
-|漫蛙| https://manwa.me |
-|花咔漫畫| https://app.huakacomic.com |
+|名称|网站|作者|
+|---|---|---|
+|腾讯动漫| https://ac.qq.com |星眠|
+|漫蛙| https://manwa.me |星眠|
+|花咔漫畫| https://app.huakacomic.com |星眠|
+|禁漫天堂| https://18comic.vip |venera-app|
+|komga| https://demo.komga.org |venera-app|
+|hitomi|https://hitomi.la|Souitou-iop|
+|拷贝漫画| https://www.mangacopy.com |Souitou-iop|
 
