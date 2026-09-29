@@ -25,15 +25,27 @@
         "fileName": "jm.js",
         "key": "jm",
         "version": "1.4.0",
-        "description": "作者：venera-app/venera-configs"
+        "description": "作者：venera-app"
     },
     {
         "name": "Komga",
         "fileName": "komga.js",
         "key": "komga",
         "version": "1.0.0",
-        "description": "作者：venera-app/venera-configs"
-    }
-    
-    
+        "description": "作者：venera-app"
+    },
+    {
+        "name": "hitomi.la",
+        "fileName": "hitomi.js",
+        "key": "hitomi",
+        "version": "1.2.3",
+        "description": "作者：Souitou-iop"
+    },
+    {
+        "name": "拷贝漫画",
+        "fileName": "copy_manga.js",
+        "key": "copy_manga",
+        "version": "1.6.1",
+        "description": "作者：Souitou-iop"
+    }        
 ]
