@@ -25,7 +25,14 @@
         "fileName": "jm.js",
         "key": "jm",
         "version": "1.4.0",
-        "description": "作者：官方漫画源"
-    }
+        "description": "作者：venera-app/venera-configs"
+    },
+    {
+        "name": "Komga",
+        "fileName": "komga.js",
+        "key": "komga",
+        "version": "1.0.0",
+        "description": "作者：venera-app/venera-configs"
+    },
     
 ]
