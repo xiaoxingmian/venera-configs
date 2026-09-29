@@ -4,18 +4,28 @@
         "fileName": "tencentcomics.js",
         "key": "tencentcomics",
         "version": "1.0.0"
+        "description": "作者：星眠"
     },
     {
         "name": "漫蛙",
         "fileName": "manwa.js",
         "key": "manwa",
         "version": "1.0.0"
+        "description": "作者：星眠"
     },
     {
         "name": "花咔漫畫",
         "fileName": "huakacomic.js",
         "key": "huakacomic",
         "version": "1.0.0"
+        "description": "作者：星眠,不能直连"
+    },
+    {
+        "name": "禁漫天堂",
+        "fileName": "jm.js",
+        "key": "jm",
+        "version": "1.4.0",
+        "description": "作者：官方漫画源"
     }
 
 ]
