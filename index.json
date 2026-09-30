@@ -47,5 +47,12 @@
         "key": "copy_manga",
         "version": "1.6.1",
         "description": "作者：Souitou-iop"
+    },
+    {
+        "name": "花火漫画",
+        "fileName": "hanabimanga.js",
+        "key": "hanabimanga",
+        "version": "1.0.0",
+        "description": "作者：星眠"
     }        
 ]
