@@ -617,7 +617,7 @@ class HanabiManga extends ComicSource {
  */
 
 category = {
-    title: "分类",
+    title: "花火漫画",
 
     parts: [
         {
