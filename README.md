@@ -23,4 +23,5 @@ https://gh-proxy.com/raw.githubusercontent.com/xiaoxingmian/venera-configs/refs/
 |komga| https://demo.komga.org |venera-app|
 |hitomi|https://hitomi.la|Souitou-iop|
 |拷贝漫画| https://www.mangacopy.com |Souitou-iop|
+|花火漫画| https://web.hanabimanga.com |星眠|
 
