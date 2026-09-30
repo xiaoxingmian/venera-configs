@@ -3,7 +3,7 @@
 class HanabiManga extends ComicSource {
     name = "花火漫画";
     key = "hanabimanga";
-    version = "1.0.3";
+    version = "1.0.0";
     minAppVersion = "1.4.0";
 
     url = "https://uhkvqrxmcapgtpspglrp.moedot.net";
